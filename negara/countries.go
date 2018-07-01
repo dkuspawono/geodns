@@ -261,4 +261,4 @@ func init() {
 		}
 		ContinentCountries[co] = append(ContinentCountries[co], cc)
 	}
-}
+} :white_check_mark:
